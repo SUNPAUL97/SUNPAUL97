@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SUNPAUL97
 - 👀 I’m interested in Data science job/contract
-- 🌱 I’m currently learning Full stack development
+- 🌱 I’m Full stack developer 
 - 💞️ I’m looking to collaborate on Data science project
 - 📫 How to reach me olaojopaul64@gmail.com,08161650498
 
