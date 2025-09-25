@@ -1,5 +1,5 @@
 # 👋 Hi there, I’m Paul
-🚀 Data Scientist | Data Analyst | Full-Stack Developer
+🚀 Data Scientist | Data Analyst | Full-Stack Developer |AI/ML Engineer | Python Developer
 
 ---
 
@@ -13,13 +13,13 @@
 
 ## 🛠️ Tech Stack  
 **Languages & Frameworks:**  
-Python | R | JavaScript | HTML | CSS | React | Node.js | SQL | NoSQL  
+Python  | JavaScript | HTML | CSS | SQL | NoSQL  
 
 **Data Science & ML Tools:**  
 Pandas | NumPy | Scikit-Learn | TensorFlow | PyTorch | Matplotlib | Seaborn | Power BI | Tableau  
 
 **DevOps & Tools:**  
-Git | Docker | AWS / GCP (if used) | CI/CD | Version control  
+Git | Docker | AWS | Azure | GCP | CI/CD | Version control  
 
 ---
 
