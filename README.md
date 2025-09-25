@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Paul Sun  
+# 👋 Hi there, I’m Paul
 🚀 Data Scientist | Data Analyst | Full-Stack Developer
 
 ---
